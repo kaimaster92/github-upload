@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test Binary
+*.test
+
+# Output of GO 
+*.out
+
+# Dependency Directory 
+# vendor/
+
+# GO Workspace
+go.work
